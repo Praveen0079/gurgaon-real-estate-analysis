@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Editor / IDE junk
+tempCodeRunnerFile.py
+.vscode/
+
+# OS
+.DS_Store
